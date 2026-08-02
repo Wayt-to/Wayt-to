@@ -1,16 +1,5 @@
 <h1 align="left">Hello World👋!</h1>
 
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Wayt-to&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wayt-to&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <h3 align="left">Hello! I’m Vahit, a passionate Computer Engineering student at Eskişehir Osmangazi University 🎓🚀.<br><br> I’m a versatile software developer with a knack for creating impactful solutions using a variety of technologies 🌐💻. My expertise includes JavaScript, React, HTML5, CSS, and Bootstrap for crafting sleek and responsive web interfaces 🌟🎨, alongside C#, Python, and SQL for robust back-end and data-driven development 🛠️📊.<br><br>I’ve worked on several exciting projects, such as:<br><br>🖥️🎉 C# desktop applications for streamlined user experiences<br>🛒🌐 An e-commerce platform and blog pages built with MVC ASP.NET<br>📈🔍 Data analysis projects using Python to uncover meaningful insights<br><br>I’m always eager to tackle new challenges, learn cutting-edge technologies, and contribute to innovative projects 🚀🌠. <br><br>Let’s connect and create something amazing together, reach out to me via LinkedIn or Gmail!</h3>
 
 ###
