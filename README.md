@@ -32,6 +32,6 @@ A 4-day weather forecast application with API integration.
 
 ## Portfolio Site
 
-https://www.wayt.vercel.app
+https://wayt.vercel.app/
 
 
