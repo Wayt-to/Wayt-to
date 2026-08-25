@@ -30,6 +30,8 @@ A 4-day weather forecast application with API integration.
 **Web:** ASP.NET MVC, .NET Core, Entity Framework, React, Bootstrap, HTML5/CSS3
 **Tools:** Git, Visual Studio, MS SQL Server, Unreal Engine 5.4
 
-## GitHub Stats
+## Portfolio Site
 
-![Vahit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wayt-to&show_icons=true&theme=default&hide_border=true)
+https://www.wayt.vercel.app
+
+
